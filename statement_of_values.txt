@@ -1,0 +1,61 @@
+============================================================
+Tor Project Statement of Core Contributor Values
+============================================================
+
+Community health is a shared responsibility. By making the community more
+inclusive and welcoming, we build a stronger and more resilient Tor. Perfection
+is not required; a commitment to continuous improvement and learning is.
+
+Our Social Contract defines our commitment to our users and the rest of the
+world. This Statement of Values defines our commitment to ourselves as a
+community of people working to build and improve Tor. This Statement of Values
+quotes passages from the Social Contract to illustrate how the two documents
+share underlying values. Some points from the Social Contract are omitted here
+because they have less to do with how we treat each other internally. This
+document is not a code of conduct; rather, it expresses the values that our
+code of conduct seeks to implement.
+
+    [Social Contract 1]  We believe that privacy, the free exchange of ideas,
+    and access to information are essential to free societies. Through our
+    community standards and the code we write, we provide tools that help all
+    people protect and advance these rights.
+
+We aspire to live by these ideals in our community by always taking care to
+treat each other with respect. We can only succeed in helping all people if we
+succeed in treating all members of our community in a way that achieves fair
+outcomes for everyone. The world (including the infosec and privacy
+communities) is full of unjust systems.  These systems, being unjust,
+necessarily benefit some people and harm others. Those of us who receive those
+benefits (like being taken more seriously, being criticized less, being safe
+from certain kinds of harm) remain complicit in the injustice *unless* we
+explicitly use our power to help those it harms.  We all fail sometimes, but we
+all must try to do better, especially when we have the power to do so.
+
+(This is what people mean by "privileged people have an obligation to help
+people without that privilege." For more info, see "Unpacking the Invisible
+Knapsack".) [1]
+
+We believe that everyone whose values and goals align with ours should feel
+welcome and safe in our community, regardless of their experience, gender
+identity or expression, sexual orientation, family, relationships, ability
+(whether mental or physical), personal appearance, socioeconomic status, body
+size, race, ethnicity, age, religion, nationality, or membership in a
+disadvantaged and/or underrepresented group. 
+
+    [Social Contract 3] The more diverse our users, the less is implied about
+    any person by simply being a Tor user. This diversity is a fundamental goal
+    and we aim to create tools and services anyone can access and use.
+
+We want to grow an inclusive and diverse community of people working on Tor. A
+diverse community helps us achieve our goals of making our tools usable by a
+diverse user population.
+
+We are a community of people who care passionately about human rights such as
+privacy, freedom of expression, and freedom of association. We need to be
+careful how we apply our social rules. Applying rigid rules to people can
+worsen existing injustice. After all, a rule can be neutral in principle, but
+not neutral in fact. As we formulate and apply our policies, we must remember
+that our rules are made to create a safe, fair, and respectful community, and
+that they have value only to the extent that they serve that goal.
+
+[1] https://nationalseedproject.org/white-privilege-unpacking-the-invisible-knapsack 
